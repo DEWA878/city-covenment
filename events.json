@@ -1,0 +1,18 @@
+[
+    {
+        "service": "Menu Enhancement",
+        "pricing": "Contact us for a personalized quote"
+    },
+    {
+        "service": "Staff Training",
+        "pricing": "Contact us for a detailed pricing proposal"
+    },
+    {
+        "service": "Kitchen Setup",
+        "pricing": "Contact us to discuss your project and receive a personalized quote"
+    },
+    {
+        "service": "Other Consultancy Services",
+        "pricing": "Varies based on specific needs. Contact us for a customized pricing proposal"
+    }
+]
